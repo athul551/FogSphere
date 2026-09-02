@@ -1,4 +1,4 @@
-ython tools for collecting hourly weather observations from the NOAA Global Historical Climatology Network hourly dataset (GHCNh), preparing fog labels, and developing a fog-prediction model for Kerala and nearby stations.
+python tools for collecting hourly weather observations from the NOAA Global Historical Climatology Network hourly dataset (GHCNh), preparing fog labels, and developing a fog-prediction model for Kerala and nearby stations.
 
 ## Status
 
